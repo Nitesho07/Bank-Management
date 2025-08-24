@@ -1,12 +1,10 @@
 # 🏦 Bank Management System  
 
-## 📘 About The Project  
-This project is a straightforward, terminal-based Bank Management System developed entirely in Python.  
-It's designed to demonstrate object-oriented programming (OOP) principles and basic data persistence through the use of a simple JSON file as a database.  
-This approach avoids the complexity of a full-scale database, making the code more accessible for learning.  
+## 📘 About The Project
 
-The main goal is to provide a clear and functional example of a core banking application.  
-It serves as an excellent educational tool for understanding classes, objects, and methods in a practical, real-world scenario—perfect for learning and demonstration purposes within our coding society.  
+This project is a straightforward, terminal-based Bank Management System developed entirely in Python. It was built to apply and demonstrate a solid understanding of **Object-Oriented Programming (OOP)** principles and Python fundamentals.
+
+The system utilizes a simple **JSON file for data persistence**, showcasing practical skills in file I/O and data management within an application. The main goal was to build a functional and clear command-line application that simulates core banking operations, effectively demonstrating proficiency with concepts like **classes, objects, and methods** in a practical scenario.  
 
 ---
 
@@ -34,5 +32,6 @@ It serves as an excellent educational tool for understanding classes, objects, a
 
 - **Delete Account:** Permanently and securely remove a bank account and all its associated data from the system.
       
-    <img width="1084" height="393" alt="image" src="https://github.com/user-attachments/assets/8913253e-60d9-4793-bc95-b25bbc9c2f8d" />
+    <img width="812" height="683" alt="image" src="https://github.com/user-attachments/assets/57b5ddc9-e79d-4477-b9e4-5486246269b4" />
+
 
