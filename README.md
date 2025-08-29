@@ -34,4 +34,56 @@ The system utilizes a simple **JSON file for data persistence**, showcasing prac
       
     <img width="812" height="683" alt="image" src="https://github.com/user-attachments/assets/57b5ddc9-e79d-4477-b9e4-5486246269b4" />
 
+---
 
+## ⚙️ Installation  
+
+Follow these steps to set up the project locally:  
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/bank-management-system.git
+
+# 2. Navigate to the project directory
+cd bank-management-system
+
+# 3. (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate   # On macOS/Linux
+venv\Scripts\activate      # On Windows
+
+# 4. Install dependencies (none external, just ensure Python 3.8+)
+pip install -r requirements.txt
+```
+
+---
+
+## 🚀 Usage  
+
+Run the program from the terminal:  
+
+```bash
+python bank_app.py
+```
+
+You will see a menu like this:  
+
+```text
+Press 1 for Creating an account
+Press 2 for Depositing the money in the bank
+Press 3 for Withdrawing the money
+Press 4 for Details
+Press 5 for Updating the details
+Press 6 for Deleting your account
+Press 0 to exit
+```
+
+👉 Enter the number corresponding to the operation you want, and follow the prompts.  
+
+---
+
+## 📜 Note  
+
+This project was built for **learning purposes only** and is not intended for real-world banking use.  
+All data is stored locally in a JSON file (`data.json`).  
+Unauthorized use, modification, or redistribution is not permitted.
