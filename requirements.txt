@@ -1,0 +1,5 @@
+# Bank App Requirements
+# Uses only Python standard libraries (json, random, string, pathlib)
+# No external dependencies required
+
+python>=3.8
